@@ -1,0 +1,9 @@
+body{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+
+div{
+    text-transform: capitalize;
+}
